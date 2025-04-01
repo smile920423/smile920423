@@ -1,7 +1,5 @@
 # 🕊️ Hey!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Smile920423&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false" />
-
 Having worked in Technolgoy and Automation for the past 8 years, I now help businesses achieve Exponential Growth using the Power of AI and Automation.
 
 I help businesses supercharge their Growth using the power of AI and Automation, integrating in every level to achieve a guaranteed measurable growth.
