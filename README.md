@@ -17,21 +17,13 @@ I help businesses supercharge their Growth using the power of AI and Automation,
 
 ## 
 
-This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...
-
+This project is a powerful open source network disk program that can not only efficiently manage various files, but also excel in image and media file management...
 <p align="center">
 	<img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
 </p>
 
 <br>
 
-## [🛡 Hexawar.io *(2022)*]
-
-It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...
-
-<p align="center">
-	<img src="https://i.imgur.com/xMWMNZv.png" width="500"></a>
-</p>
 
 <!--
 **smile920423/smile920423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
