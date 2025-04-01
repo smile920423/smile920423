@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Smile920423&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false" />
 
-I am a Security/Hardware Engineer and an explorer of Spiritual Psychology, with expertise in various security technologies, including software reverse engineering, web security, IoT security, and SoC security.  
+Having worked in Technolgoy and Automation for the past 8 years, I now help businesses achieve Exponential Growth using the Power of AI and Automation.
 
-I also possess extensive development capabilities, covering a diverse and flexible tech stack that includes front-end and back-end development, operating system kernels, and hardware design.  
+I help businesses supercharge their Growth using the power of AI and Automation, integrating in every level to achieve a guaranteed measurable growth.
 
 > The heart's origin endures, the heart's path remains.  
 > Following my inner voice, exploring myself, and thereby defining "Who am I."  
