@@ -15,22 +15,22 @@ I help businesses supercharge their Growth using the power of AI and Automation,
  - ✅ TypeScript / HTML / CSS / PHP
  - ✅ And more... Learning and applying on demand...
 
-## [🎨 Generative Adversarial Network *(2023)*](https://github.com/angeluriot/Generative_adversarial_network)
+## 
 
 This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Generative_adversarial_network"><img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
+	<img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
 </p>
 
 <br>
 
-## [🛡 Hexawar.io *(2022)*](https://github.com/angeluriot/Hexawar.io)
+## [🛡 Hexawar.io *(2022)*]
 
 It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Hexawar.io"><img src="https://i.imgur.com/xMWMNZv.png" width="500"></a>
+	<img src="https://i.imgur.com/xMWMNZv.png" width="500"></a>
 </p>
 
 <!--
