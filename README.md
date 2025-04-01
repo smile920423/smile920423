@@ -9,28 +9,29 @@ I help businesses supercharge their Growth using the power of AI and Automation,
 > The heart's origin endures, the heart's path remains.  
 > Following my inner voice, exploring myself, and thereby defining "Who am I."  
 
-## 🏹 Technical Expertise
-
- - ✅ Web Security / Binary Security / Hardware Security / Reverse Engineering
- - ✅ Common Back-End Technologies / Software Development / Performance Tuning / FAE On-Site Debugging
- - ✅ Digital Electronic Engineering / PCB Design / Low-Level Systems & OS Kernel
- - ✅ FPGA IP Design / RTL Design Optimization
- - ✅ Front-End / UI Interaction Design
- - ✅ Miscellaneous Skills / 3D Printing / CAD / Common Hands-On & DIY Skills...
-
 ## ✨ Programming Languages for me
 
- - ✅ Assembly 
- - ✅ C / C++ 
- - ✅ Verilog
  - ✅ Python / C# / Java 
  - ✅ TypeScript / HTML / CSS / PHP
  - ✅ And more... Learning and applying on demand...
 
-## 📮 How to reach me
+## [🎨 Generative Adversarial Network *(2023)*](https://github.com/angeluriot/Generative_adversarial_network)
 
-- ~~Angelic47's Blog~~ Currently paused, as no idea what to write.
-- Email [Follow Up Here](mailto:admin@angelic47.com)## Hi there 👋
+This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Generative_adversarial_network"><img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
+
+## [🛡 Hexawar.io *(2022)*](https://github.com/angeluriot/Hexawar.io)
+
+It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Hexawar.io"><img src="https://i.imgur.com/xMWMNZv.png" width="500"></a>
+</p>
 
 <!--
 **smile920423/smile920423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
