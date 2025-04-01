@@ -12,7 +12,8 @@ I help businesses supercharge their Growth using the power of AI and Automation,
 ## ✨ Programming Languages for me
 
  - ✅ Python / C# / Java 
- - ✅ TypeScript / HTML / CSS / PHP
+ - ✅ TypeScript / HTML / CSS / PHP / Javascript
+ - ✅ Artificial Intelligence / Automation / Machine Learning
  - ✅ And more... Learning and applying on demand...
 
 ## 
