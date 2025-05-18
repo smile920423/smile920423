@@ -8,7 +8,7 @@ I help businesses supercharge their Growth using the power of AI and Automation,
 > Following my inner voice, exploring myself, and thereby defining "Who am I."  
 
 ## ✨ Programming Languages for me
-
+ - ✅ n8n / zapier / make.com 
  - ✅ Python / C# / Java 
  - ✅ TypeScript / HTML / CSS / PHP / Javascript
  - ✅ Artificial Intelligence / Automation / Machine Learning
